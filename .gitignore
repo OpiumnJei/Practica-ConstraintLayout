@@ -1,0 +1,22 @@
+# Archivos y carpetas de configuración del IDE
+.idea/
+*.iml
+
+# Archivos de Gradle
+.gradle/
+build/
+**/build/
+
+# Archivos locales y temporales
+local.properties
+.DS_Store
+/captures
+.externalNativeBuild
+.cxx
+
+# Archivos generados
+*.apk
+*.ap_
+
+# Archivos del sistema
+Thumbs.db
